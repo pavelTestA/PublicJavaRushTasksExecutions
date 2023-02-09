@@ -4,7 +4,7 @@ import com.javarush.task.task24.SokobanGame.controller.EventListener;
 import com.javarush.task.task24.SokobanGame.model.Direction;
 import com.javarush.task.task24.SokobanGame.model.GameObject;
 import com.javarush.task.task24.SokobanGame.model.GameObjects;
-import com.javarush.task.task34.SokobanGame.model.*;
+import com.javarush.task.task24.SokobanGame.model.*;
 
 import javax.swing.*;
 import java.awt.*;

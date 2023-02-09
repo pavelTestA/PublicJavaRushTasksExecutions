@@ -7,7 +7,7 @@ import java.nio.file.Paths;
 public class Model {
     private GameObjects gameObjects;
     private int currentLevel=1;
-    private LevelLoader levelLoader = new LevelLoader(Paths.get("D:\\JavaRush\\Project\\JavaRushTasks\\4.JavaCollections\\src\\com\\javarush\\task\\task34\\task3410\\res\\levels.txt"));
+    private LevelLoader levelLoader = new LevelLoader(Paths.get("C:\\Users\\Павел\\IdeaProjects\\JavaRushTask2\\SokobanGame\\res\\levels.txt"));
     private EventListener eventListener;
     public static final int FIELD_CELL_SIZE = 20;
 
