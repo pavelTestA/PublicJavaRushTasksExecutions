@@ -1,4 +1,4 @@
-package com.javarush.task.task27.SimpeChat;
+package com.javarush.task.task24.SimpeChat;
 
 /* 
 Расставь wait-notify

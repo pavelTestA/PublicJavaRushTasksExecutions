@@ -1,10 +1,10 @@
-package com.javarush.task.task34.SokobanGame.controller;
+package com.javarush.task.task24.SokobanGame.controller;
 
 
-import com.javarush.task.task34.SokobanGame.model.Direction;
-import com.javarush.task.task34.SokobanGame.model.GameObjects;
-import com.javarush.task.task34.SokobanGame.model.Model;
-import com.javarush.task.task34.SokobanGame.view.View;
+import com.javarush.task.task24.SokobanGame.model.Direction;
+import com.javarush.task.task24.SokobanGame.model.GameObjects;
+import com.javarush.task.task24.SokobanGame.model.Model;
+import com.javarush.task.task24.SokobanGame.view.View;
 
 
 public class Controller implements EventListener{

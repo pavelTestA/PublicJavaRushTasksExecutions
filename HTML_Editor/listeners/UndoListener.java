@@ -1,4 +1,4 @@
-package com.javarush.task.task32.HTML_Editor.listeners;
+package com.javarush.task.task24.HTML_Editor.listeners;
 
 import javax.swing.event.UndoableEditEvent;
 import javax.swing.event.UndoableEditListener;

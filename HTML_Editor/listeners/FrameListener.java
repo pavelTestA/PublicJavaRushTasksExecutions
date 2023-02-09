@@ -1,6 +1,6 @@
-package com.javarush.task.task32.HTML_Editor.listeners;
+package com.javarush.task.task24.HTML_Editor.listeners;
 
-import com.javarush.task.task32.HTML_Editor.View;
+import com.javarush.task.task24.HTML_Editor.View;
 
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;

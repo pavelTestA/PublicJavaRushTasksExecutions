@@ -1,6 +1,6 @@
-package com.javarush.task.task32.HTML_Editor;
+package com.javarush.task.task24.HTML_Editor;
 
-import com.javarush.task.task32.HTML_Editor.listeners.UndoListener;
+import com.javarush.task.task24.HTML_Editor.listeners.UndoListener;
 
 import javax.swing.*;
 import javax.swing.text.BadLocationException;

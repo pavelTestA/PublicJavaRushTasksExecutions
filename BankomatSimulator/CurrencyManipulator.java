@@ -1,6 +1,6 @@
-package com.javarush.task.task26.BankomatSimulator;
+package com.javarush.task.task24.BankomatSimulator;
 
-import com.javarush.task.task26.BankomatSimulator.exception.NotEnoughMoneyException;
+import com.javarush.task.task24.BankomatSimulator.exception.NotEnoughMoneyException;
 
 import java.util.*;
 

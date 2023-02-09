@@ -1,6 +1,6 @@
-package com.javarush.task.task31.Archiver.command;
+package com.javarush.task.task24.Archiver.command;
 
-import com.javarush.task.task31.Archiver.ConsoleHelper;
+import com.javarush.task.task24.Archiver.ConsoleHelper;
 
 public class ExitCommand implements Command {
     @Override

@@ -1,9 +1,9 @@
-package com.javarush.task.task26.BankomatSimulator.command;
+package com.javarush.task.task24.BankomatSimulator.command;
 
-import com.javarush.task.task26.BankomatSimulator.CashMachine;
-import com.javarush.task.task26.BankomatSimulator.ConsoleHelper;
-import com.javarush.task.task26.BankomatSimulator.CurrencyManipulator;
-import com.javarush.task.task26.BankomatSimulator.CurrencyManipulatorFactory;
+import com.javarush.task.task24.BankomatSimulator.CashMachine;
+import com.javarush.task.task24.BankomatSimulator.ConsoleHelper;
+import com.javarush.task.task24.BankomatSimulator.CurrencyManipulator;
+import com.javarush.task.task24.BankomatSimulator.CurrencyManipulatorFactory;
 
 import java.util.Collection;
 import java.util.ResourceBundle;

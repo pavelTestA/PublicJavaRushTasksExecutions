@@ -1,6 +1,6 @@
-package com.javarush.task.task32.HTML_Editor.listeners;
+package com.javarush.task.task24.HTML_Editor.listeners;
 
-import com.javarush.task.task32.HTML_Editor.View;
+import com.javarush.task.task24.HTML_Editor.View;
 
 import javax.swing.*;
 import javax.swing.event.MenuEvent;

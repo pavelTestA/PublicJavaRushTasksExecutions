@@ -1,4 +1,4 @@
-package com.javarush.task.task27.SimpeChat;
+package com.javarush.task.task24.SimpeChat;
 
 public class Person implements Runnable {
     private final Mail mail;
@@ -14,7 +14,7 @@ public class Person implements Runnable {
             try {
                 Thread.sleep(1000);
                 //сделайте что-то тут - do something here
-                mail.setText("Person [" + name + "] wrote an email 'AAA'");
+                mail.setText("Person [" + name + "] wrote an email 'Мое первое сообщение!'");
                 mail.notifyAll();
                 //сделайте что-то тут - do something here
             } catch (InterruptedException e) {

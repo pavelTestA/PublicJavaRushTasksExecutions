@@ -1,4 +1,4 @@
-package com.javarush.task.task32.HTML_Editor;
+package com.javarush.task.task24.HTML_Editor;
 
 import javax.swing.filechooser.FileFilter;
 import java.io.File;

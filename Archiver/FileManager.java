@@ -1,4 +1,4 @@
-package com.javarush.task.task31.Archiver;
+package com.javarush.task.task24.Archiver;
 
 import java.io.IOException;
 import java.nio.file.DirectoryStream;

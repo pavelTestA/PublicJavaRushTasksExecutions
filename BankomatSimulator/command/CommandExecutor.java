@@ -1,7 +1,7 @@
-package com.javarush.task.task26.BankomatSimulator.command;
+package com.javarush.task.task24.BankomatSimulator.command;
 
-import com.javarush.task.task26.BankomatSimulator.Operation;
-import com.javarush.task.task26.BankomatSimulator.exception.InterruptOperationException;
+import com.javarush.task.task24.BankomatSimulator.Operation;
+import com.javarush.task.task24.BankomatSimulator.exception.InterruptOperationException;
 
 import java.util.HashMap;
 import java.util.Map;

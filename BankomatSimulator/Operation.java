@@ -1,4 +1,4 @@
-package com.javarush.task.task26.BankomatSimulator;
+package com.javarush.task.task24.BankomatSimulator;
 
 public enum Operation {
     LOGIN,

@@ -1,4 +1,4 @@
-package com.javarush.task.task26.BankomatSimulator.exception;
+package com.javarush.task.task24.BankomatSimulator.exception;
 
 public class NotEnoughMoneyException extends Exception{
 }

@@ -1,7 +1,7 @@
-package com.javarush.task.task26.BankomatSimulator;
+package com.javarush.task.task24.BankomatSimulator;
 
-import com.javarush.task.task26.BankomatSimulator.command.CommandExecutor;
-import com.javarush.task.task26.BankomatSimulator.exception.InterruptOperationException;
+import com.javarush.task.task24.BankomatSimulator.command.CommandExecutor;
+import com.javarush.task.task24.BankomatSimulator.exception.InterruptOperationException;
 
 import java.util.*;
 

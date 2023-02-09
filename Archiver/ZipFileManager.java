@@ -1,7 +1,7 @@
-package com.javarush.task.task31.Archiver;
+package com.javarush.task.task24.Archiver;
 
-import com.javarush.task.task31.Archiver.exception.PathIsNotFoundException;
-import com.javarush.task.task31.Archiver.exception.WrongZipFileException;
+import com.javarush.task.task24.Archiver.exception.PathIsNotFoundException;
+import com.javarush.task.task24.Archiver.exception.WrongZipFileException;
 
 import java.io.ByteArrayOutputStream;
 import java.io.InputStream;

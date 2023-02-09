@@ -1,8 +1,8 @@
-package com.javarush.task.task32.HTML_Editor;
+package com.javarush.task.task24.HTML_Editor;
 
-import com.javarush.task.task32.HTML_Editor.actions.*;
-import com.javarush.task.task32.HTML_Editor.listeners.TextEditMenuListener;
-import com.javarush.task.task32.HTML_Editor.listeners.UndoMenuListener;
+import com.javarush.task.task24.HTML_Editor.actions.*;
+import com.javarush.task.task24.HTML_Editor.listeners.TextEditMenuListener;
+import com.javarush.task.task24.HTML_Editor.listeners.UndoMenuListener;
 
 import javax.swing.*;
 import javax.swing.text.DefaultEditorKit;

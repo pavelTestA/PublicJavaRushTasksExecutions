@@ -1,4 +1,4 @@
-package com.javarush.task.task34.SokobanGame.model;
+package com.javarush.task.task24.SokobanGame.model;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

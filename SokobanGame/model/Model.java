@@ -1,6 +1,6 @@
-package com.javarush.task.task34.SokobanGame.model;
+package com.javarush.task.task24.SokobanGame.model;
 
-import com.javarush.task.task34.SokobanGame.controller.EventListener;
+import com.javarush.task.task24.SokobanGame.controller.EventListener;
 
 import java.nio.file.Paths;
 

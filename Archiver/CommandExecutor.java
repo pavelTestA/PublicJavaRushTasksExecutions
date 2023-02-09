@@ -1,6 +1,6 @@
-package com.javarush.task.task31.Archiver;
+package com.javarush.task.task24.Archiver;
 
-import com.javarush.task.task31.Archiver.command.*;
+import com.javarush.task.task24.Archiver.command.*;
 
 import java.util.HashMap;
 import java.util.Map;

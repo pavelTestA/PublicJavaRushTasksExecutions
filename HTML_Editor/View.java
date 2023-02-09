@@ -1,8 +1,8 @@
-package com.javarush.task.task32.HTML_Editor;
+package com.javarush.task.task24.HTML_Editor;
 
-import com.javarush.task.task32.HTML_Editor.listeners.FrameListener;
-import com.javarush.task.task32.HTML_Editor.listeners.TabbedPaneChangeListener;
-import com.javarush.task.task32.HTML_Editor.listeners.UndoListener;
+import com.javarush.task.task24.HTML_Editor.listeners.FrameListener;
+import com.javarush.task.task24.HTML_Editor.listeners.TabbedPaneChangeListener;
+import com.javarush.task.task24.HTML_Editor.listeners.UndoListener;
 
 import javax.swing.*;
 import javax.swing.undo.CannotRedoException;
@@ -120,9 +120,9 @@ public class View extends JFrame implements ActionListener {
     public void initEditor(){
         htmlTextPane.setContentType("text/html");
         JScrollPane jScrollPanehtml = new JScrollPane(htmlTextPane);
-        tabbedPane.add("HTML", jScrollPanehtml);
+        tabbedPane.add("Текст", jScrollPanehtml);
         JScrollPane jScrollPanePlain = new JScrollPane(plainTextPane);
-        tabbedPane.add("Текст", jScrollPanePlain);
+        tabbedPane.add("HTML", jScrollPanePlain);
         tabbedPane.setPreferredSize(new Dimension(200,200));
         tabbedPane.addChangeListener(new TabbedPaneChangeListener(this));
         getContentPane().add(tabbedPane, BorderLayout.CENTER);

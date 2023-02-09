@@ -1,4 +1,4 @@
-package com.javarush.task.task34.SokobanGame.controller;
+package com.javarush.task.task24.SokobanGame.controller;
 
 
 import java.io.*;
