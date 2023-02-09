@@ -1,4 +1,4 @@
-package com.javarush.task.task23.SnakeGame;
+package com.javarush.task.task24.SnakeGame;
 
 public class Mouse {
     private int x;
